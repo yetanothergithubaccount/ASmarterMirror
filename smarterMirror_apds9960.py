@@ -61,8 +61,8 @@ GPIO.setup(7, GPIO.IN)
 
 
 ########################CONFIG############################
-OWM_APYKEY='891a2d932fdb647f40db7d811b91fa05'
-OWM_ID = 2938913
+OWM_APYKEY='theowmapikey'
+OWM_ID = theowmid
 
 REMOTE_SERVER = "www.google.com"  # for WiFi check
 
